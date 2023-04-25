@@ -4,6 +4,7 @@ An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
 The project contains a simple node.js application that exposes REST APIs
+[![Build Status](https://dev.azure.com/daniban1995/eShopOnWeb/_apis/build/status%2Fproyecto-autonomo.calculator?branchName=master)](https://dev.azure.com/daniban1995/eShopOnWeb/_build/latest?definitionId=5&branchName=master)
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
